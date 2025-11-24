@@ -1,0 +1,1 @@
+Throughout this course, I have learned the fundamental skills needed to work with Git and GitHub, including creating repositories, managing branches, making pull requests, and collaborating on projects. I now understand how version control helps track changes, improve teamwork, and organize project development.
